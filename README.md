@@ -125,11 +125,7 @@
 99. [Find XOR of all subsets of a set](https://leetcode.com/problems/subsets/) - 🟡 Medium
 
 
----
 
-### Thanks for Reading 
-
-<img src="/assets/images/save.png" width="600" height="200">
 
 ---
 
